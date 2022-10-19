@@ -7,7 +7,7 @@ by reallocting according to the status of different bonds.
 
 This App is not in the appstore yet, due to the lack of an ios developer certification and lack of time to fill the database.
 # More details and a visualization can be found here: 
-[App Informationa and Visuals](https://github.com/escholino/greenbondwatch/blob/main/GreenBondWatch.pdf)
+[App Information and Visuals](https://github.com/escholino/greenbondwatch/blob/main/GreenBondWatch.pdf)
 
 # Further
 For help, suggestions or any comments contact mmuehlbacher12@gmail.com, especially suggestions on how to get more reliable data.
