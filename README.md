@@ -1,16 +1,12 @@
 # greenbondapp
 
-A new Flutter project.
+This project is showcasing an attemt to decrease the greenwashing options for green bond issuers 
+and help investors make data driven investment choices.
+It also give live updates, and helps to consistently ensure a certain "greeness" of the investors portfolio, 
+by reallocting according to the status of different bonds.
 
-## Getting Started
+This App is not in the appstore yet, due to the lack of an ios developer certification and lack of time to fill the database.
+# More details and a visualization can be found here: 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help, suggestions or any comments contact mmuehlbacher12@gmail.com, especially suggestions on how to get more reliable data.
